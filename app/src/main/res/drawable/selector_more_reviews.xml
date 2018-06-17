@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Cover user pressed View scenarios-->
+    <item android:drawable="@color/colorSelector" android:state_pressed="true"/>
+    <item android:drawable="@color/colorSelector" android:state_activated="true"/>
+    <item android:drawable="@color/colorSelector" android:state_selected="true"/>
+
+    <!-- Cover default unselected state-->
+    <item android:drawable="@android:color/background_light"/>
+
+</selector>

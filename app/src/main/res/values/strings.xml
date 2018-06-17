@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="blabla">blabla</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top rated</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="no_connection">No connection</string>
+    <string name="trailer">Trailer:</string>
+    <string name="overview">Overview</string>
+    <string name="more_reviews">More reviews</string>
+    <string name="no_reviews">No reviews</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorites">Favorites</string>
+    <string name="help">Help</string>
+    <string name="help_text">Select movies from: \n 1) Popular  \n 2) Top Rated \n  3) Favorites\n\n   - Add movies to Favorites by pressing the heart in the Movie Details screen.\n   - Delete movie from Favorites using a long press on the poster.</string>
+    <string name="videos">Videos</string>
+</resources>
