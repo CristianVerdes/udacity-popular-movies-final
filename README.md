@@ -4,6 +4,7 @@ Popular Movies - Final
 This is the second project (Final stage) from the Android Developer Nanodegree program.
 
 NOTES
+- Build on the MVP architecture.
 - Youtube and TMDB API keys in the utilities.NetworkUtils
 - Testen on Android 8.0
 
