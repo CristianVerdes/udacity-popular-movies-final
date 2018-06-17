@@ -3,12 +3,12 @@
 Popular Movies - Final
 This is the second project (Final stage) from the Android Developer Nanodegree program.
 
-NOTES
+# NOTES
 - Build on the MVP architecture.
 - Youtube and TMDB API keys in the utilities.NetworkUtils
 - Testen on Android 8.0
 
-What Will I Learn After Stage 2?
+# What Will I Learn After Stage 2?
 - You will build a fully featured application that looks and feels natural on the latest Android operating system (Nougat, as of November 2016).
 - You’ll add more information to your movie details view:
 - You’ll allow users to view and play trailers ( either in the youtube app or a web browser).
